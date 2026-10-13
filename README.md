@@ -4,7 +4,7 @@ Autor: **Samuel David Ospina De Avila**
 
 Materia: Sistemas Distribuidos — profesor John Carlos Arrieta Arrieta
 
-Sistema distribuido cliente–servidor sobre TCP/IP que usa **RMI (Remote Method Invocation)** mediante la librería de terceros **LipeRMI**, siguiendo la guía de clase pero con mi ejercicio de parcial. La versión con RMI estándar de Java (sin librería) está en el repositorio hermano `RmiEstandar-Temperatura`.
+Sistema distribuido cliente–servidor sobre TCP/IP que usa **RMI (Remote Method Invocation)** mediante la librería de terceros **LipeRMI**, siguiendo la guía de clase pero con mi ejercicio de parcial. La versión con RMI estándar de Java (sin librería) está en el repositorio hermano [RMI-Temperatura](https://github.com/SamuelOsp/RMI-Temperatura).
 
 ## Vistas
 
